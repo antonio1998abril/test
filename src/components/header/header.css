@@ -1,0 +1,22 @@
+ 
+.navbar{
+  width: 100%;
+  min-height: 6vh;
+  box-sizing: border-box;
+  display: center;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(19, 18, 18);
+  transition: all .7s ease-in;
+  margin-top: -20px;
+color:aliceblue;
+z-index: 9;
+}
+
+.scrolled{
+  position: sticky;
+  top: 0;
+  left: 0;
+  background-color: rgb(19, 18, 18);
+}
+
